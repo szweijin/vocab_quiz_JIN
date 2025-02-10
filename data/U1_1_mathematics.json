@@ -1,0 +1,230 @@
+[
+    {
+        "word": "average",
+        "correctTranslation": "平均",
+        "options": ["平均", "最大值", "最小值", "中位數"],
+        "errorCount": 0
+    },
+    {
+        "word": "boundless",
+        "correctTranslation": "無邊無際",
+        "options": ["有限", "無邊無際", "空間", "邊界"],
+        "errorCount": 0
+    },
+    {
+        "word": "computerize",
+        "correctTranslation": "電腦化",
+        "options": ["手動化", "電腦化", "機械化", "自動化"],
+        "errorCount": 0
+    },
+    {
+        "word": "cone",
+        "correctTranslation": "圓錐",
+        "options": ["圓錐", "圓形", "立方體", "球形"],
+        "errorCount": 0
+    },
+    {
+        "word": "digital",
+        "correctTranslation": "數位的",
+        "options": ["數位的", "模擬的", "計算的", "程序的"],
+        "errorCount": 0
+    },
+    {
+        "word": "encircle",
+        "correctTranslation": "圍繞",
+        "options": ["包圍", "圍繞", "分散", "散開"],
+        "errorCount": 0
+    },
+    {
+        "word": "even",
+        "correctTranslation": "偶數",
+        "options": ["奇數", "偶數", "分數", "整數"],
+        "errorCount": 0
+    },
+    {
+        "word": "minus",
+        "correctTranslation": "減",
+        "options": ["加", "減", "乘", "除"],
+        "errorCount": 0
+    },
+    {
+        "word": "angle",
+        "correctTranslation": "角度",
+        "options": ["角度", "邊長", "面積", "高度"],
+        "errorCount": 0
+    },
+    {
+        "word": "calculate",
+        "correctTranslation": "計算",
+        "options": ["估算", "計算", "推測", "測量"],
+        "errorCount": 0
+    },
+    {
+        "word": "plus",
+        "correctTranslation": "加",
+        "options": ["加", "減", "乘", "除"],
+        "errorCount": 0
+    },
+    {
+        "word": "ratio",
+        "correctTranslation": "比率",
+        "options": ["比率", "總和", "差異", "平均"],
+        "errorCount": 0
+    },
+    {
+        "word": "recken",
+        "correctTranslation": "估算",
+        "options": ["估算", "計算", "測量", "預測"],
+        "errorCount": 0
+    },
+    {
+        "word": "arithmetic",
+        "correctTranslation": "算術",
+        "options": ["算術", "幾何", "代數", "微積分"],
+        "errorCount": 0
+    },
+    {
+        "word": "cube",
+        "correctTranslation": "立方體",
+        "options": ["立方體", "長方體", "圓形", "圓錐"],
+        "errorCount": 0
+    },
+    {
+        "word": "diameter",
+        "correctTranslation": "直徑",
+        "options": ["半徑", "直徑", "周長", "面積"],
+        "errorCount": 0
+    },
+    {
+        "word": "dot",
+        "correctTranslation": "點",
+        "options": ["點", "線", "面", "角"],
+        "errorCount": 0
+    },
+    {
+        "word": "equation",
+        "correctTranslation": "方程式",
+        "options": ["不等式", "方程式", "算法", "定理"],
+        "errorCount": 0
+    },
+    {
+        "word": "geometry",
+        "correctTranslation": "幾何",
+        "options": ["代數", "幾何", "算術", "分析"],
+        "errorCount": 0
+    },
+    {
+        "word": "mathematical",
+        "correctTranslation": "數學的",
+        "options": ["數學的", "物理的", "化學的", "工程的"],
+        "errorCount": 0
+    },
+    {
+        "word": "triangle",
+        "correctTranslation": "三角形",
+        "options": ["三角形", "正方形", "圓形", "矩形"],
+        "errorCount": 0
+    },
+    {
+        "word": "compute",
+        "correctTranslation": "計算",
+        "options": ["計算", "估算", "測量", "推算"],
+        "errorCount": 0
+    },
+    {
+        "word": "proportion",
+        "correctTranslation": "比例",
+        "options": ["比例", "總和", "差異", "比率"],
+        "errorCount": 0
+    },
+    {
+        "word": "calculus",
+        "correctTranslation": "微積分",
+        "options": ["微積分", "代數", "幾何", "算術"],
+        "errorCount": 0
+    },
+    {
+        "word": "cubic",
+        "correctTranslation": "立方的",
+        "options": ["立方的", "正方的", "長方的", "圓形的"],
+        "errorCount": 0
+    },
+    {
+        "word": "cylinder",
+        "correctTranslation": "圓柱",
+        "options": ["圓柱", "立方體", "圓錐", "球形"],
+        "errorCount": 0
+    },
+    {
+        "word": "decimal",
+        "correctTranslation": "小數",
+        "options": ["小數", "分數", "百分比", "整數"],
+        "errorCount": 0
+    },
+    {
+        "word": "ellipse",
+        "correctTranslation": "橢圓",
+        "options": ["圓形", "橢圓", "正方形", "三角形"],
+        "errorCount": 0
+    },
+    {
+        "word": "enumerate",
+        "correctTranslation": "列舉",
+        "options": ["列舉", "計算", "估算", "記錄"],
+        "errorCount": 0
+    },
+    {
+        "word": "exponential",
+        "correctTranslation": "指數的",
+        "options": ["指數的", "線性的", "對數的", "常數的"],
+        "errorCount": 0
+    },
+    {
+        "word": "formulate",
+        "correctTranslation": "制定",
+        "options": ["創建", "制定", "分析", "測量"],
+        "errorCount": 0
+    },
+    {
+        "word": "infinitesimal",
+        "correctTranslation": "極小的",
+        "options": ["極小的", "極大的", "有限的", "無窮的"],
+        "errorCount": 0
+    },
+    {
+        "word": "nil",
+        "correctTranslation": "零",
+        "options": ["零", "一", "無窮", "無"],
+        "errorCount": 0
+    },
+    {
+        "word": "plumb",
+        "correctTranslation": "垂直的",
+        "options": ["平行的", "垂直的", "傾斜的", "直線的"],
+        "errorCount": 0
+    },
+    {
+        "word": "quantitative",
+        "correctTranslation": "定量的",
+        "options": ["定量的", "質量的", "數值的", "有形的"],
+        "errorCount": 0
+    },
+    {
+        "word": "radius",
+        "correctTranslation": "半徑",
+        "options": ["半徑", "直徑", "圓心", "周長"],
+        "errorCount": 0
+    },
+    {
+        "word": "rectangle",
+        "correctTranslation": "矩形",
+        "options": ["正方形", "矩形", "三角形", "圓形"],
+        "errorCount": 0
+    },
+    {
+        "word": "symmetry",
+        "correctTranslation": "對稱",
+        "options": ["對稱", "不對稱", "平衡", "反射"],
+        "errorCount": 0
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "word": "blackmail",
+        "correctTranslation": "勒索",
+        "options": ["威脅", "勒索", "恐嚇", "騷擾"],
+        "errorCount": 0
+    },
+    {
+        "word": "Conduct",
+        "correctTranslation": "行為",
+        "options": ["傳遞", "導電", "領導", "行為"],
+        "errorCount": 0
+    },
+    {
+        "word": "distance",
+        "correctTranslation": "距離",
+        "options": ["間隔", "距離", "時間", "長度"],
+        "errorCount": 0
+    },
+    {
+        "word": "flame",
+        "correctTranslation": "火焰",
+        "options": ["火焰", "煙霧", "熱量", "熔岩"],
+        "errorCount": 0
+    },
+    {
+        "word": "flash",
+        "correctTranslation": "閃光",
+        "options": ["閃光", "亮光", "光芒", "閃光燈"],
+        "errorCount": 0
+    },
+    {
+        "word": "golden",
+        "correctTranslation": "金色的",
+        "options": ["銀色的", "金色的", "紅色的", "藍色的"],
+        "errorCount": 0
+    },
+    {
+        "word": "iceberg",
+        "correctTranslation": "冰山",
+        "options": ["浮冰", "冰川", "冰山", "雪山"],
+        "errorCount": 0
+    },
+    {
+        "word": "impetus",
+        "correctTranslation": "動力",
+        "options": ["動力", "推動力", "力量", "慣性"],
+        "errorCount": 0
+    },
+    {
+        "word": "press",
+        "correctTranslation": "壓力",
+        "options": ["壓力", "按壓", "新聞", "出版"],
+        "errorCount": 0
+    },
+    {
+        "word": "speedy",
+        "correctTranslation": "快速的",
+        "options": ["快速的", "緩慢的", "堅固的", "強大的"],
+        "errorCount": 0
+    },
+    {
+        "word": "strength",
+        "correctTranslation": "力量",
+        "options": ["強度", "力量", "容量", "抗性"],
+        "errorCount": 0
+    },
+    {
+        "word": "Chemical",
+        "correctTranslation": "化學的",
+        "options": ["生物的", "化學的", "物理的", "醫學的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Circuit",
+        "correctTranslation": "電路",
+        "options": ["回路", "電路", "系統", "線路"],
+        "errorCount": 0
+    },
+    {
+        "word": "Echo",
+        "correctTranslation": "回聲",
+        "options": ["回聲", "聲音", "反射", "回音"],
+        "errorCount": 0
+    },
+    {
+        "word": "electric",
+        "correctTranslation": "電的",
+        "options": ["熱的", "冷的", "電的", "聲音的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Freeze",
+        "correctTranslation": "凍結",
+        "options": ["冷凍", "凝固", "加熱", "融化"],
+        "errorCount": 0
+    },
+    {
+        "word": "Frequent",
+        "correctTranslation": "頻繁的",
+        "options": ["少見的", "頻繁的", "不常的", "偶爾的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Frozen",
+        "correctTranslation": "冰凍的",
+        "options": ["溶解的", "熱的", "冷的", "冰凍的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Glowing",
+        "correctTranslation": "發光的",
+        "options": ["發光的", "昏暗的", "冷卻的", "黑暗的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Invent",
+        "correctTranslation": "發明",
+        "options": ["發明", "創造", "設計", "構思"],
+        "errorCount": 0
+    },
+    {
+        "word": "Invention",
+        "correctTranslation": "發明",
+        "options": ["創新", "發明", "設計", "發展"],
+        "errorCount": 0
+    },
+    {
+        "word": "Inventive",
+        "correctTranslation": "創造的",
+        "options": ["創新的", "發明的", "創造的", "獨特的"],
+        "errorCount": 0
+    },
+    {
+        "word": "nuclear",
+        "correctTranslation": "核的",
+        "options": ["光的", "核的", "熱的", "電的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Physics",
+        "correctTranslation": "物理學",
+        "options": ["化學", "物理學", "生物學", "數學"],
+        "errorCount": 0
+    },
+    {
+        "word": "pressure",
+        "correctTranslation": "壓力",
+        "options": ["溫度", "壓力", "力", "速度"],
+        "errorCount": 0
+    },
+    {
+        "word": "Reflection",
+        "correctTranslation": "反射",
+        "options": ["反射", "折射", "光線", "影像"],
+        "errorCount": 0
+    },
+    {
+        "word": "Solid",
+        "correctTranslation": "固體",
+        "options": ["液體", "固體", "氣體", " plasma"],
+        "errorCount": 0
+    },
+    {
+        "word": "Sphere",
+        "correctTranslation": "球體",
+        "options": ["球體", "立方體", "矩形", "圓形"],
+        "errorCount": 0
+    },
+    {
+        "word": "Strengthen",
+        "correctTranslation": "加強",
+        "options": ["增強", "加強", "減弱", "降低"],
+        "errorCount": 0
+    },
+    {
+        "word": "Stress",
+        "correctTranslation": "壓力",
+        "options": ["壓力", "應力", "重量", "負擔"],
+        "errorCount": 0
+    },
+    {
+        "word": "Atomic",
+        "correctTranslation": "原子的",
+        "options": ["分子的", "原子的", "電子的", "質量的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Conductor",
+        "correctTranslation": "導體",
+        "options": ["絕緣體", "導體", "半導體", "載體"],
+        "errorCount": 0
+    },
+    {
+        "word": "dimension",
+        "correctTranslation": "維度",
+        "options": ["尺寸", "維度", "長度", "高度"],
+        "errorCount": 0
+    },
+    {
+        "word": "elasticity",
+        "correctTranslation": "彈性",
+        "options": ["彈性", "剛性", "延展性", "堅硬性"],
+        "errorCount": 0
+    },
+    {
+        "word": "electrify",
+        "correctTranslation": "通電",
+        "options": ["導電", "通電", "照亮", "激活"],
+        "errorCount": 0
+    },
+    {
+        "word": "Gallon",
+        "correctTranslation": "加侖",
+        "options": ["升", "加侖", "毫升", "公升"],
+        "errorCount": 0
+    },
+    {
+        "word": "gravity",
+        "correctTranslation": "重力",
+        "options": ["重力", "引力", "磁力", "向心力"],
+        "errorCount": 0
+    },
+    {
+        "word": "Laser",
+        "correctTranslation": "激光",
+        "options": ["光束", "激光", "雷射", "激光器"],
+        "errorCount": 0
+    },
+    {
+        "word": "Liquid",
+        "correctTranslation": "液體",
+        "options": ["液體", "固體", "氣體", " plasma"],
+        "errorCount": 0
+    },
+    {
+        "word": "Magnet",
+        "correctTranslation": "磁鐵",
+        "options": ["磁鐵", "鐵塊", "鋼鐵", "金屬"],
+        "errorCount": 0
+    },
+    {
+        "word": "Magnetic",
+        "correctTranslation": "磁性的",
+        "options": ["導電的", "磁性的", "反射的", "吸引的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Malleable",
+        "correctTranslation": "可塑的",
+        "options": ["可塑的", "堅硬的", "脆弱的", "剛硬的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Molecule",
+        "correctTranslation": "分子",
+        "options": ["原子", "分子", "細胞", "粒子"],
+        "errorCount": 0
+    },
+    {
+        "word": "Optical",
+        "correctTranslation": "光學的",
+        "options": ["光學的", "電子的", "聲音的", "機械的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Orbit",
+        "correctTranslation": "軌道",
+        "options": ["路徑", "軌道", "圓周", "方向"],
+        "errorCount": 0
+    },
+    {
+        "word": "Particle",
+        "correctTranslation": "粒子",
+        "options": ["原子", "分子", "粒子", "波"],
+        "errorCount": 0
+    },
+    {
+        "word": "Particulate",
+        "correctTranslation": "微粒的",
+        "options": ["微粒的", "宏觀的", "宏大的", "微觀的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Physics",
+        "correctTranslation": "物理學",
+        "options": ["物理學", "化學", "生物學", "數學"],
+        "errorCount": 0
+    },
+    {
+        "word": "Semiconductor",
+        "correctTranslation": "半導體",
+        "options": ["導體", "半導體", "絕緣體", "傳導體"],
+        "errorCount": 0
+    },
+    {
+        "word": "Substantial",
+        "correctTranslation": "大量的",
+        "options": ["微小的", "少量的", "大量的", "平均的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Vapor",
+        "correctTranslation": "蒸氣",
+        "options": ["氣體", "液體", "蒸氣", "霧氣"],
+        "errorCount": 0
+    },
+    {
+        "word": "Voltage",
+        "correctTranslation": "電壓",
+        "options": ["電流", "電壓", "功率", "電流強度"],
+        "errorCount": 0
+    },
+    {
+        "word": "Subatomic",
+        "correctTranslation": "亞原子的",
+        "options": ["微觀的", "原子的", "亞原子的", "微粒的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Thaw",
+        "correctTranslation": "解凍",
+        "options": ["結冰", "解凍", "融化", "凍結"],
+        "errorCount": 0
+    },
+    {
+        "word": "aerial",
+        "correctTranslation": "空中的",
+        "options": ["地面的", "空中的", "水中的", "天空的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Amalgamate",
+        "correctTranslation": "合併",
+        "options": ["混合", "合併", "分開", "分裂"],
+        "errorCount": 0
+    },
+    {
+        "word": "Brunt",
+        "correctTranslation": "主要衝擊",
+        "options": ["小部分", "主要衝擊", "輕微的", "後果"],
+        "errorCount": 0
+    },
+    {
+        "word": "Bulge",
+        "correctTranslation": "膨脹",
+        "options": ["縮小", "膨脹", "擴展", "萎縮"],
+        "errorCount": 0
+    },
+    {
+        "word": "Decibel",
+        "correctTranslation": "分貝",
+        "options": ["分貝", "頻率", "音量", "音調"],
+        "errorCount": 0
+    },
+    {
+        "word": "Dilute",
+        "correctTranslation": "稀釋",
+        "options": ["稀釋", "濃縮", "加熱", "冷卻"],
+        "errorCount": 0
+    },
+    {
+        "word": "Distillation",
+        "correctTranslation": "蒸餾",
+        "options": ["蒸餾", "濃縮", "過濾", "分離"],
+        "errorCount": 0
+    },
+    {
+        "word": "Dynamo",
+        "correctTranslation": "發電機",
+        "options": ["發電機", "引擎", "電池", "發電站"],
+        "errorCount": 0
+    },
+    {
+        "word": "Electronics",
+        "correctTranslation": "電子學",
+        "options": ["電子學", "物理學", "電機學", "機械學"],
+        "errorCount": 0
+    },
+    {
+        "word": "equilibrium",
+        "correctTranslation": "平衡",
+        "options": ["平衡", "不穩定", "變化", "差異"],
+        "errorCount": 0
+    },
+    {
+        "word": "Flake",
+        "correctTranslation": "薄片",
+        "options": ["顆粒", "塊狀", "薄片", "片狀"],
+        "errorCount": 0
+    },
+    {
+        "word": "Fray",
+        "correctTranslation": "磨損",
+        "options": ["磨損", "撕裂", "織造", "斷裂"],
+        "errorCount": 0
+    },
+    {
+        "word": "Fuse",
+        "correctTranslation": "保險絲",
+        "options": ["導線", "保險絲", "插頭", "電纜"],
+        "errorCount": 0
+    },
+    {
+        "word": "Gild",
+        "correctTranslation": "鍍金",
+        "options": ["鍍金", "鍍銀", "鑄造", "熔化"],
+        "errorCount": 0
+    },
+    {
+        "word": "Granular",
+        "correctTranslation": "顆粒狀的",
+        "options": ["顆粒狀的", "固體的", "液體的", "氣體的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Heater",
+        "correctTranslation": "加熱器",
+        "options": ["冷卻器", "加熱器", "風扇", "空調"],
+        "errorCount": 0
+    },
+    {
+        "word": "hologram",
+        "correctTranslation": "全息影像",
+        "options": ["立體影像", "全息影像", "二維影像", "投影"],
+        "errorCount": 0
+    },
+    {
+        "word": "inelastic",
+        "correctTranslation": "非彈性的",
+        "options": ["彈性的", "非彈性的", "剛性的", "柔軟的"],
+        "errorCount": 0
+    },
+    {
+        "word": "inertia",
+        "correctTranslation": "慣性",
+        "options": ["力", "慣性", "加速度", "質量"],
+        "errorCount": 0
+    },
+    {
+        "word": "insulate",
+        "correctTranslation": "隔離",
+        "options": ["導電", "隔離", "加熱", "冷卻"],
+        "errorCount": 0
+    },
+    {
+        "word": "insulation",
+        "correctTranslation": "絕緣層",
+        "options": ["導體", "絕緣層", "電纜", "導線"],
+        "errorCount": 0
+    },
+    {
+        "word": "Kinetic",
+        "correctTranslation": "運動的",
+        "options": ["靜止的", "運動的", "靈活的", "彈性的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Magnesium",
+        "correctTranslation": "鎂",
+        "options": ["鎂", "鋁", "鈉", "鉀"],
+        "errorCount": 0
+    },
+    {
+        "word": "Magnetism",
+        "correctTranslation": "磁性",
+        "options": ["電性", "磁性", "重力", "光"],
+        "errorCount": 0
+    },
+    {
+        "word": "Magnetize",
+        "correctTranslation": "磁化",
+        "options": ["磁化", "加熱", "冷卻", "導電"],
+        "errorCount": 0
+    },
+    {
+        "word": "Meson",
+        "correctTranslation": "介子",
+        "options": ["光子", "介子", "質子", "電子"],
+        "errorCount": 0
+    },
+    {
+        "word": "Molecular",
+        "correctTranslation": "分子的",
+        "options": ["分子的", "原子的", "粒子的", "量子的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Molten",
+        "correctTranslation": "熔化的",
+        "options": ["凝固的", "熔化的", "冷卻的", "固體的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Neutron",
+        "correctTranslation": "中子",
+        "options": ["質子", "中子", "電子", "光子"],
+        "errorCount": 0
+    },
+    {
+        "word": "Pneumatic",
+        "correctTranslation": "氣動的",
+        "options": ["電動的", "氣動的", "液壓的", "機械的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Poise",
+        "correctTranslation": "穩重",
+        "options": ["冷靜", "穩重", "敏捷", "平衡"],
+        "errorCount": 0
+    },
+    {
+        "word": "Polarize",
+        "correctTranslation": "極化",
+        "options": ["冷卻", "熱化", "極化", "平衡"],
+        "errorCount": 0
+    },
+    {
+        "word": "Spherical",
+        "correctTranslation": "球形的",
+        "options": ["圓形的", "立方體的", "球形的", "橢圓形的"],
+        "errorCount": 0
+    },
+    {
+        "word": "Supersonic",
+        "correctTranslation": "超音速的",
+        "options": ["超音速的", "亞音速的", "常速的", "慢速的"],
+        "errorCount": 0
+    },
+    {
+        "word": "tepid",
+        "correctTranslation": "微溫的",
+        "options": ["熱的", "冷的", "微溫的", "沸騰的"],
+        "errorCount": 0
+    }
+]

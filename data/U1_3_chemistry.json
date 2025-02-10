@@ -1,0 +1,302 @@
+[
+    {
+        "word": "element",
+        "correctTranslation": "元素",
+        "options": ["元素", "化合物", "分子", "原子"],
+        "errorCount": 0
+    },
+    {
+        "word": "lead",
+        "correctTranslation": "鉛",
+        "options": ["鉛", "鋁", "銅", "鐵"],
+        "errorCount": 0
+    },
+    {
+        "word": "solution",
+        "correctTranslation": "溶液",
+        "options": ["溶液", "溶解", "混合物", "藥水"],
+        "errorCount": 0
+    },
+    {
+        "word": "factor",
+        "correctTranslation": "因素",
+        "options": ["原因", "因素", "條件", "參數"],
+        "errorCount": 0
+    },
+    {
+        "word": "formula",
+        "correctTranslation": "公式",
+        "options": ["公式", "方程式", "算法", "定理"],
+        "errorCount": 0
+    },
+    {
+        "word": "melt",
+        "correctTranslation": "融化",
+        "options": ["熔化", "凝固", "蒸發", "冷卻"],
+        "errorCount": 0
+    },
+    {
+        "word": "poison",
+        "correctTranslation": "毒藥",
+        "options": ["毒藥", "藥物", "藥品", "解毒劑"],
+        "errorCount": 0
+    },
+    {
+        "word": "smell",
+        "correctTranslation": "氣味",
+        "options": ["味道", "氣味", "香味", "臭味"],
+        "errorCount": 0
+    },
+    {
+        "word": "wax",
+        "correctTranslation": "蠟",
+        "options": ["蠟", "油", "膏", "乳霜"],
+        "errorCount": 0
+    },
+    {
+        "word": "acid",
+        "correctTranslation": "酸",
+        "options": ["鹼", "酸", "水", "鹽"],
+        "errorCount": 0
+    },
+    {
+        "word": "alcoholic",
+        "correctTranslation": "含酒精的",
+        "options": ["無酒精的", "含酒精的", "清涼的", "甜的"],
+        "errorCount": 0
+    },
+    {
+        "word": "bubble",
+        "correctTranslation": "泡沫",
+        "options": ["泡沫", "氣泡", "水珠", "液滴"],
+        "errorCount": 0
+    },
+    {
+        "word": "carbon",
+        "correctTranslation": "碳",
+        "options": ["氮", "碳", "氫", "氧"],
+        "errorCount": 0
+    },
+    {
+        "word": "compound",
+        "correctTranslation": "化合物",
+        "options": ["元素", "混合物", "化合物", "分子"],
+        "errorCount": 0
+    },
+    {
+        "word": "dye",
+        "correctTranslation": "染料",
+        "options": ["顏料", "染料", "色素", "顏色"],
+        "errorCount": 0
+    },
+    {
+        "word": "glue",
+        "correctTranslation": "膠水",
+        "options": ["膠水", "膠帶", "粘合劑", "黏土"],
+        "errorCount": 0
+    },
+    {
+        "word": "hydrogen",
+        "correctTranslation": "氫",
+        "options": ["氫", "氧", "氮", "碳"],
+        "errorCount": 0
+    },
+    {
+        "word": "nitrogen",
+        "correctTranslation": "氮",
+        "options": ["氫", "氧", "氮", "碳"],
+        "errorCount": 0
+    },
+    {
+        "word": "oxygen",
+        "correctTranslation": "氧",
+        "options": ["氫", "氧", "氮", "碳"],
+        "errorCount": 0
+    },
+    {
+        "word": "poisonous",
+        "correctTranslation": "有毒的",
+        "options": ["無毒的", "有毒的", "腐爛的", "有害的"],
+        "errorCount": 0
+    },
+    {
+        "word": "rust",
+        "correctTranslation": "生鏽",
+        "options": ["腐蝕", "氧化", "生鏽", "磨損"],
+        "errorCount": 0
+    },
+    {
+        "word": "rusty",
+        "correctTranslation": "生鏽的",
+        "options": ["生鏽的", "清潔的", "磨損的", "光滑的"],
+        "errorCount": 0
+    },
+    {
+        "word": "scent",
+        "correctTranslation": "香氣",
+        "options": ["氣味", "香氣", "臭味", "臭氣"],
+        "errorCount": 0
+    },
+    {
+        "word": "sticky",
+        "correctTranslation": "黏的",
+        "options": ["滑的", "黏的", "乾的", "濕的"],
+        "errorCount": 0
+    },
+    {
+        "word": "coagulate",
+        "correctTranslation": "凝固",
+        "options": ["溶解", "凝固", "分解", "攪拌"],
+        "errorCount": 0
+    },
+    {
+        "word": "foul",
+        "correctTranslation": "惡臭的",
+        "options": ["清新的", "惡臭的", "甜美的", "酸的"],
+        "errorCount": 0
+    },
+    {
+        "word": "scarlet",
+        "correctTranslation": "猩紅色的",
+        "options": ["紅色的", "綠色的", "藍色的", "猩紅色的"],
+        "errorCount": 0
+    },
+    {
+        "word": "alcohol",
+        "correctTranslation": "酒精",
+        "options": ["酒精", "水", "醋", "糖"],
+        "errorCount": 0
+    },
+    {
+        "word": "aura",
+        "correctTranslation": "氣氛",
+        "options": ["氣氛", "氛圍", "氣味", "能量"],
+        "errorCount": 0
+    },
+    {
+        "word": "brew",
+        "correctTranslation": "釀造",
+        "options": ["煮沸", "釀造", "蒸餾", "煮製"],
+        "errorCount": 0
+    },
+    {
+        "word": "buoy",
+        "correctTranslation": "浮標",
+        "options": ["船", "浮標", "救生圈", "小艇"],
+        "errorCount": 0
+    },
+    {
+        "word": "caustic",
+        "correctTranslation": "苛性的",
+        "options": ["酸性的", "苛性的", "鹼性的", "中性的"],
+        "errorCount": 0
+    },
+    {
+        "word": "celluloid",
+        "correctTranslation": "賽璐璐",
+        "options": ["塑膠", "賽璐璐", "木材", "橡膠"],
+        "errorCount": 0
+    },
+    {
+        "word": "corrode",
+        "correctTranslation": "腐蝕",
+        "options": ["腐蝕", "生鏽", "溶解", "破壞"],
+        "errorCount": 0
+    },
+    {
+        "word": "corrosive",
+        "correctTranslation": "腐蝕性的",
+        "options": ["腐蝕性的", "酸性的", "鹼性的", "可燃的"],
+        "errorCount": 0
+    },
+    {
+        "word": "dioxide",
+        "correctTranslation": "二氧化物",
+        "options": ["二氧化物", "一氧化物", "氮氧化物", "氧化氮"],
+        "errorCount": 0
+    },
+    {
+        "word": "fragrant",
+        "correctTranslation": "芬芳的",
+        "options": ["芬芳的", "臭的", "刺鼻的", "清新的"],
+        "errorCount": 0
+    },
+    {
+        "word": "gaseous",
+        "correctTranslation": "氣體的",
+        "options": ["液體的", "固體的", "氣體的", "固態的"],
+        "errorCount": 0
+    },
+    {
+        "word": "germanium",
+        "correctTranslation": "鍺",
+        "options": ["鎳", "鍺", "鋅", "鉻"],
+        "errorCount": 0
+    },
+    {
+        "word": "hydrochloric",
+        "correctTranslation": "鹽酸的",
+        "options": ["硫酸的", "鹽酸的", "氫氟酸的", "硝酸的"],
+        "errorCount": 0
+    },
+    {
+        "word": "neon",
+        "correctTranslation": "氖",
+        "options": ["氖", "氦", "氮", "氫"],
+        "errorCount": 0
+    },
+    {
+        "word": "neutralize",
+        "correctTranslation": "中和",
+        "options": ["中和", "酸化", "腐蝕", "消耗"],
+        "errorCount": 0
+    },
+    {
+        "word": "nitric",
+        "correctTranslation": "硝酸的",
+        "options": ["硝酸的", "氫氟酸的", "鹽酸的", "硫酸的"],
+        "errorCount": 0
+    },
+    {
+        "word": "petrify",
+        "correctTranslation": "使石化",
+        "options": ["使結冰", "使石化", "凍結", "凝固"],
+        "errorCount": 0
+    },
+    {
+        "word": "petrochemical",
+        "correctTranslation": "石化的",
+        "options": ["石化的", "有機的", "無機的", "天然的"],
+        "errorCount": 0
+    },
+    {
+        "word": "sediment",
+        "correctTranslation": "沉積物",
+        "options": ["沉積物", "沙土", "礦石", "泥土"],
+        "errorCount": 0
+    },
+    {
+        "word": "smog",
+        "correctTranslation": "煙霧",
+        "options": ["霧氣", "煙霧", "雲霧", "沙霧"],
+        "errorCount": 0
+    },
+    {
+        "word": "sulfur",
+        "correctTranslation": "硫磺",
+        "options": ["硫磺", "氯", "鋁", "鈷"],
+        "errorCount": 0
+    },
+    {
+        "word": "tan",
+        "correctTranslation": "曬黑",
+        "options": ["曬黑", "燒焦", "弄髒", "擦傷"],
+        "errorCount": 0
+    },
+    {
+        "word": "toxic",
+        "correctTranslation": "有毒的",
+        "options": ["無毒的", "有毒的", "有害的", "危險的"],
+        "errorCount": 0
+    }
+]

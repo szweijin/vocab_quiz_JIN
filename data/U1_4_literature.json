@@ -1,0 +1,182 @@
+[
+    {
+        "word": "article",
+        "correctTranslation": "文章",
+        "options": ["文章", "書籍", "報告", "期刊"],
+        "errorCount": 0
+    },
+    {
+        "word": "author",
+        "correctTranslation": "作者",
+        "options": ["作者", "編輯", "寫手", "出版商"],
+        "errorCount": 0
+    },
+    {
+        "word": "Chapter",
+        "correctTranslation": "章節",
+        "options": ["章節", "段落", "篇章", "標題"],
+        "errorCount": 0
+    },
+    {
+        "word": "essay",
+        "correctTranslation": "散文",
+        "options": ["小說", "文章", "散文", "報告"],
+        "errorCount": 0
+    },
+    {
+        "word": "fiction",
+        "correctTranslation": "小說",
+        "options": ["小說", "真實", "非小說", "故事"],
+        "errorCount": 0
+    },
+    {
+        "word": "fictional",
+        "correctTranslation": "虛構的",
+        "options": ["虛構的", "真實的", "歷史的", "現實的"],
+        "errorCount": 0
+    },
+    {
+        "word": "fictitious",
+        "correctTranslation": "虛構的",
+        "options": ["虛構的", "幻想的", "真實的", "偽造的"],
+        "errorCount": 0
+    },
+    {
+        "word": "index",
+        "correctTranslation": "索引",
+        "options": ["目錄", "索引", "條目", "清單"],
+        "errorCount": 0
+    },
+    {
+        "word": "literacy",
+        "correctTranslation": "識字能力",
+        "options": ["語言能力", "識字能力", "閱讀能力", "寫作能力"],
+        "errorCount": 0
+    },
+    {
+        "word": "literature",
+        "correctTranslation": "文學",
+        "options": ["文學", "小說", "詩歌", "文章"],
+        "errorCount": 0
+    },
+    {
+        "word": "poetry",
+        "correctTranslation": "詩歌",
+        "options": ["詩歌", "散文", "小說", "戲劇"],
+        "errorCount": 0
+    },
+    {
+        "word": "sign",
+        "correctTranslation": "標誌",
+        "options": ["符號", "標誌", "標記", "指示"],
+        "errorCount": 0
+    },
+    {
+        "word": "tale",
+        "correctTranslation": "故事",
+        "options": ["故事", "小說", "故事情節", "敘述"],
+        "errorCount": 0
+    },
+    {
+        "word": "verbalize",
+        "correctTranslation": "口頭表達",
+        "options": ["表達", "口頭表達", "書面表達", "解釋"],
+        "errorCount": 0
+    },
+    {
+        "word": "verdict",
+        "correctTranslation": "判決",
+        "options": ["裁定", "判決", "評價", "裁決"],
+        "errorCount": 0
+    },
+    {
+        "word": "outline",
+        "correctTranslation": "大綱",
+        "options": ["大綱", "摘要", "框架", "草稿"],
+        "errorCount": 0
+    },
+    {
+        "word": "signal",
+        "correctTranslation": "信號",
+        "options": ["信號", "標誌", "指示", "提醒"],
+        "errorCount": 0
+    },
+    {
+        "word": "grammar",
+        "correctTranslation": "語法",
+        "options": ["語言結構", "語法", "詞彙", "語音"],
+        "errorCount": 0
+    },
+    {
+        "word": "grammatical",
+        "correctTranslation": "語法的",
+        "options": ["語法的", "拼寫的", "發音的", "語言的"],
+        "errorCount": 0
+    },
+    {
+        "word": "logical",
+        "correctTranslation": "邏輯的",
+        "options": ["邏輯的", "直觀的", "感性的", "理性的"],
+        "errorCount": 0
+    },
+    {
+        "word": "signature",
+        "correctTranslation": "簽名",
+        "options": ["簽名", "印章", "印記", "標誌"],
+        "errorCount": 0
+    },
+    {
+        "word": "verbal",
+        "correctTranslation": "口頭的",
+        "options": ["口頭的", "書面的", "視覺的", "書信的"],
+        "errorCount": 0
+    },
+    {
+        "word": "prose",
+        "correctTranslation": "散文",
+        "options": ["詩歌", "散文", "小說", "文章"],
+        "errorCount": 0
+    },
+    {
+        "word": "signify",
+        "correctTranslation": "表示",
+        "options": ["象徵", "顯示", "表示", "標誌"],
+        "errorCount": 0
+    },
+    {
+        "word": "autobiography",
+        "correctTranslation": "自傳",
+        "options": ["自傳", "傳記", "小說", "散文"],
+        "errorCount": 0
+    },
+    {
+        "word": "fable",
+        "correctTranslation": "寓言",
+        "options": ["寓言", "故事", "童話", "傳說"],
+        "errorCount": 0
+    },
+    {
+        "word": "literal",
+        "correctTranslation": "字面上的",
+        "options": ["字面上的", "隱喻的", "象徵的", "誇張的"],
+        "errorCount": 0
+    },
+    {
+        "word": "paraphrase",
+        "correctTranslation": "釋義",
+        "options": ["解釋", "重述", "釋義", "轉述"],
+        "errorCount": 0
+    },
+    {
+        "word": "satire",
+        "correctTranslation": "諷刺",
+        "options": ["諷刺", "幽默", "諷刺作品", "戲劇"],
+        "errorCount": 0
+    },
+    {
+        "word": "synopsis",
+        "correctTranslation": "摘要",
+        "options": ["摘要", "概要", "綱要", "大綱"],
+        "errorCount": 0
+    }
+]

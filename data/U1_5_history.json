@@ -1,0 +1,44 @@
+[
+    {
+        "word": "document",
+        "correctTranslation": "文件",
+        "options": ["文件", "證書", "報告", "檔案"],
+        "errorCount": 0
+    },
+    {
+        "word": "extant",
+        "correctTranslation": "現存的",
+        "options": ["現存的", "遺失的", "古老的", "消失的"],
+        "errorCount": 0
+    },
+    {
+        "word": "historical",
+        "correctTranslation": "歷史的",
+        "options": ["歷史的", "古老的", "現代的", "傳統的"],
+        "errorCount": 0
+    },
+    {
+        "word": "ancestor",
+        "correctTranslation": "祖先",
+        "options": ["祖先", "後代", "家族", "先人"],
+        "errorCount": 0
+    },
+    {
+        "word": "antique",
+        "correctTranslation": "古董",
+        "options": ["古董", "老舊的", "收藏品", "古物"],
+        "errorCount": 0
+    },
+    {
+        "word": "historic",
+        "correctTranslation": "歷史性的",
+        "options": ["歷史性的", "重要的", "過去的", "久遠的"],
+        "errorCount": 0
+    },
+    {
+        "word": "documentary",
+        "correctTranslation": "紀錄片",
+        "options": ["紀錄片", "文獻", "報導", "片段"],
+        "errorCount": 0
+    }
+]

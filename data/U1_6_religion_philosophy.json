@@ -1,0 +1,254 @@
+[
+    {
+        "word": "bury",
+        "correctTranslation": "埋葬",
+        "options": ["埋葬", "掩埋", "埋藏", "藏匿"],
+        "errorCount": 0
+    },
+    {
+        "word": "christ",
+        "correctTranslation": "基督",
+        "options": ["基督", "耶穌", "救世主", "聖人"],
+        "errorCount": 0
+    },
+    {
+        "word": "faith",
+        "correctTranslation": "信仰",
+        "options": ["信仰", "信念", "信任", "忠誠"],
+        "errorCount": 0
+    },
+    {
+        "word": "holy",
+        "correctTranslation": "神聖的",
+        "options": ["神聖的", "崇高的", "純潔的", "聖潔的"],
+        "errorCount": 0
+    },
+    {
+        "word": "honour",
+        "correctTranslation": "榮譽",
+        "options": ["榮譽", "尊重", "光榮", "名譽"],
+        "errorCount": 0
+    },
+    {
+        "word": "idealize",
+        "correctTranslation": "理想化",
+        "options": ["理想化", "美化", "憧憬", "追求"],
+        "errorCount": 0
+    },
+    {
+        "word": "lord",
+        "correctTranslation": "主",
+        "options": ["主人", "主", "神", "領主"],
+        "errorCount": 0
+    },
+    {
+        "word": "materialist",
+        "correctTranslation": "物質主義者",
+        "options": ["物質主義者", "實利主義者", "物質主義", "現實主義者"],
+        "errorCount": 0
+    },
+    {
+        "word": "native",
+        "correctTranslation": "本土的",
+        "options": ["本土的", "土生的", "原生的", "本地的"],
+        "errorCount": 0
+    },
+    {
+        "word": "philosophy",
+        "correctTranslation": "哲學",
+        "options": ["哲學", "思想", "學說", "世界觀"],
+        "errorCount": 0
+    },
+    {
+        "word": "religious",
+        "correctTranslation": "宗教的",
+        "options": ["宗教的", "虔誠的", "神聖的", "信教的"],
+        "errorCount": 0
+    },
+    {
+        "word": "faithful",
+        "correctTranslation": "忠誠的",
+        "options": ["忠誠的", "忠實的", "信守的", "可靠的"],
+        "errorCount": 0
+    },
+    {
+        "word": "philosopher",
+        "correctTranslation": "哲學家",
+        "options": ["哲學家", "思想家", "學者", "理論家"],
+        "errorCount": 0
+    },
+    {
+        "word": "optimistic",
+        "correctTranslation": "樂觀的",
+        "options": ["樂觀的", "積極的", "希望的", "正向的"],
+        "errorCount": 0
+    },
+    {
+        "word": "pessimistic",
+        "correctTranslation": "悲觀的",
+        "options": ["悲觀的", "消極的", "悲傷的", "沮喪的"],
+        "errorCount": 0
+    },
+    {
+        "word": "bishop",
+        "correctTranslation": "主教",
+        "options": ["主教", "牧師", "神父", "神職"],
+        "errorCount": 0
+    },
+    {
+        "word": "bless",
+        "correctTranslation": "祝福",
+        "options": ["祝福", "賜福", "庇佑", "祝禱"],
+        "errorCount": 0
+    },
+    {
+        "word": "blessed",
+        "correctTranslation": "受祝福的",
+        "options": ["祝福的", "神聖的", "幸運的", "幸福的"],
+        "errorCount": 0
+    },
+    {
+        "word": "catholic",
+        "correctTranslation": "天主教的",
+        "options": ["天主教的", "普遍的", "普世的", "基督教的"],
+        "errorCount": 0
+    },
+    {
+        "word": "devout",
+        "correctTranslation": "虔誠的",
+        "options": ["虔誠的", "忠誠的", "虔敬的", "信仰深厚的"],
+        "errorCount": 0
+    },
+    {
+        "word": "divine",
+        "correctTranslation": "神聖的",
+        "options": ["神聖的", "上天的", "神的", "聖潔的"],
+        "errorCount": 0
+    },
+    {
+        "word": "doctrine",
+        "correctTranslation": "教義",
+        "options": ["教義", "信條", "學說", "教義理論"],
+        "errorCount": 0
+    },
+    {
+        "word": "humanitarian",
+        "correctTranslation": "人道主義者",
+        "options": ["人道主義者", "慈善家", "人道主義", "博愛主義者"],
+        "errorCount": 0
+    },
+    {
+        "word": "Missionary",
+        "correctTranslation": "傳教士",
+        "options": ["傳教士", "使徒", "宣教士", "宗教使者"],
+        "errorCount": 0
+    },
+    {
+        "word": "monk",
+        "correctTranslation": "僧侶",
+        "options": ["僧侶", "修道士", "僧人", "聖僧"],
+        "errorCount": 0
+    },
+    {
+        "word": "pilgrim",
+        "correctTranslation": "朝聖者",
+        "options": ["朝聖者", "旅人", "信徒", "敬拜者"],
+        "errorCount": 0
+    },
+    {
+        "word": "pious",
+        "correctTranslation": "虔誠的",
+        "options": ["虔誠的", "敬虔的", "忠實的", "神聖的"],
+        "errorCount": 0
+    },
+    {
+        "word": "preach",
+        "correctTranslation": "傳道",
+        "options": ["傳道", "講道", "宣講", "布道"],
+        "errorCount": 0
+    },
+    {
+        "word": "sacred",
+        "correctTranslation": "神聖的",
+        "options": ["神聖的", "神聖的", "崇高的", "聖潔的"],
+        "errorCount": 0
+    },
+    {
+        "word": "aboriginal",
+        "correctTranslation": "土著的",
+        "options": ["土著的", "原住民的", "原始的", "本土的"],
+        "errorCount": 0
+    },
+    {
+        "word": "bum",
+        "correctTranslation": "流浪者",
+        "options": ["流浪者", "乞丐", "無業者", "遊民"],
+        "errorCount": 0
+    },
+    {
+        "word": "celestial",
+        "correctTranslation": "天上的",
+        "options": ["天上的", "宇宙的", "天體的", "神聖的"],
+        "errorCount": 0
+    },
+    {
+        "word": "chaste",
+        "correctTranslation": "貞潔的",
+        "options": ["貞潔的", "純潔的", "潔白的", "清高的"],
+        "errorCount": 0
+    },
+    {
+        "word": "clerical",
+        "correctTranslation": "牧師的",
+        "options": ["牧師的", "神職的", "教士的", "神聖的"],
+        "errorCount": 0
+    },
+    {
+        "word": "cult",
+        "correctTranslation": "邪教",
+        "options": ["邪教", "崇拜", "教派", "信仰"],
+        "errorCount": 0
+    },
+    {
+        "word": "dogmatic(al)",
+        "correctTranslation": "教條的",
+        "options": ["教條的", "固守的", "僵化的", "傳統的"],
+        "errorCount": 0
+    },
+    {
+        "word": "ego",
+        "correctTranslation": "自我",
+        "options": ["自我", "自尊", "自大", "個人主義"],
+        "errorCount": 0
+    },
+    {
+        "word": "feudal",
+        "correctTranslation": "封建的",
+        "options": ["封建的", "地主制的", "封建制度的", "領主的"],
+        "errorCount": 0
+    },
+    {
+        "word": "impracticable",
+        "correctTranslation": "不可行的",
+        "options": ["不可行的", "不切實際的", "無法實現的", "不可能的"],
+        "errorCount": 0
+    },
+    {
+        "word": "materialism",
+        "correctTranslation": "唯物主義",
+        "options": ["唯物主義", "實利主義", "物質主義", "物質觀"],
+        "errorCount": 0
+    },
+    {
+        "word": "recluse",
+        "correctTranslation": "隱士",
+        "options": ["隱士", "隱居者", "孤獨者", "遠離塵囂者"],
+        "errorCount": 0
+    },
+    {
+        "word": "skeptical",
+        "correctTranslation": "懷疑的",
+        "options": ["懷疑的", "疑慮的", "不確定的", "不信的"],
+        "errorCount": 0
+    }
+]
