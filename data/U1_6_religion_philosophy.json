@@ -104,7 +104,7 @@
     {
         "word": "blessed",
         "correctTranslation": "受祝福的",
-        "options": ["祝福的", "神聖的", "幸運的", "幸福的"],
+        "options": ["受祝福的", "神聖的", "幸運的", "幸福的"],
         "errorCount": 0
     },
     {
