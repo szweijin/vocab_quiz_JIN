@@ -1,0 +1,566 @@
+[
+    {
+        "word": "affair",
+        "correctTranslation": "事件",
+        "options": ["事件", "財產", "決策", "影響"],
+        "errorCount": 0
+    },
+    {
+        "word": "ambition",
+        "correctTranslation": "野心",
+        "options": ["野心", "恐懼", "快樂", "悲傷"],
+        "errorCount": 0
+    },
+    {
+        "word": "ambitious",
+        "correctTranslation": "有野心的",
+        "options": ["有野心的", "害羞的", "懶惰的", "謙虛的"],
+        "errorCount": 0
+    },
+    {
+        "word": "anthropology",
+        "correctTranslation": "人類學",
+        "options": ["人類學", "地理學", "生物學", "物理學"],
+        "errorCount": 0
+    },
+    {
+        "word": "aptitude",
+        "correctTranslation": "天賦",
+        "options": ["天賦", "努力", "習慣", "懶惰"],
+        "errorCount": 0
+    },
+    {
+        "word": "authority",
+        "correctTranslation": "權威",
+        "options": ["權威", "自由", "責任", "義務"],
+        "errorCount": 0
+    },
+    {
+        "word": "category",
+        "correctTranslation": "類別",
+        "options": ["類別", "細節", "背景", "例子"],
+        "errorCount": 0
+    },
+    {
+        "word": "character",
+        "correctTranslation": "性格",
+        "options": ["性格", "外貌", "能力", "職業"],
+        "errorCount": 0
+    },
+    {
+        "word": "circumstance",
+        "correctTranslation": "情況",
+        "options": ["情況", "結果", "原因", "影響"],
+        "errorCount": 0
+    },
+    {
+        "word": "citizenship",
+        "correctTranslation": "公民身份",
+        "options": ["公民身份", "職業", "社會地位", "家庭背景"],
+        "errorCount": 0
+    },
+    {
+        "word": "conscience",
+        "correctTranslation": "良心",
+        "options": ["良心", "感情", "理性", "智慧"],
+        "errorCount": 0
+    },
+    {
+        "word": "demographic",
+        "correctTranslation": "人口統計",
+        "options": ["人口統計", "經濟狀況", "教育水平", "政治觀點"],
+        "errorCount": 0
+    },
+    {
+        "word": "enslave",
+        "correctTranslation": "奴役",
+        "options": ["奴役", "解放", "控制", "保護"],
+        "errorCount": 0
+    },
+    {
+        "word": "ethics",
+        "correctTranslation": "倫理學",
+        "options": ["倫理學", "哲學", "社會學", "心理學"],
+        "errorCount": 0
+    },
+    {
+        "word": "ethnic",
+        "correctTranslation": "種族的",
+        "options": ["種族的", "文化的", "經濟的", "政治的"],
+        "errorCount": 0
+    },
+    {
+        "word": "exemplary",
+        "correctTranslation": "模範的",
+        "options": ["模範的", "普通的", "平庸的", "糟糕的"],
+        "errorCount": 0
+    },
+    {
+        "word": "fellow",
+        "correctTranslation": "同伴",
+        "options": ["同伴", "敵人", "陌生人", "老師"],
+        "errorCount": 0
+    },
+    {
+        "word": "female",
+        "correctTranslation": "女性的",
+        "options": ["女性的", "男性的", "中性的", "無性的"],
+        "errorCount": 0
+    },
+    {
+        "word": "figurehead",
+        "correctTranslation": "名義領袖",
+        "options": ["名義領袖", "實權領袖", "普通成員", "顧問"],
+        "errorCount": 0
+    },
+    {
+        "word": "folk",
+        "correctTranslation": "民間的",
+        "options": ["民間的", "官方的", "傳統的", "現代的"],
+        "errorCount": 0
+    },
+    {
+        "word": "hideous",
+        "correctTranslation": "醜陋的",
+        "options": ["醜陋的", "美麗的", "普通的", "獨特的"],
+        "errorCount": 0
+    },
+    {
+        "word": "humanize",
+        "correctTranslation": "使人性化",
+        "options": ["使人性化", "機械化", "數字化", "簡單化"],
+        "errorCount": 0
+    },
+    {
+        "word": "intellectual",
+        "correctTranslation": "知識分子",
+        "options": ["知識分子", "工人", "藝術家", "運動員"],
+        "errorCount": 0
+    },
+    {
+        "word": "master",
+        "correctTranslation": "大師",
+        "options": ["大師", "學徒", "新手", "學生"],
+        "errorCount": 0
+    },
+    {
+        "word": "matter",
+        "correctTranslation": "事情",
+        "options": ["事情", "物質", "空間", "時間"],
+        "errorCount": 0
+    },
+    {
+        "word": "moral",
+        "correctTranslation": "道德的",
+        "options": ["道德的", "不道德的", "合法的", "違法的"],
+        "errorCount": 0
+    },
+    {
+        "word": "morally",
+        "correctTranslation": "道德上地",
+        "options": ["道德上地", "法律上地", "情緒上地", "實際上地"],
+        "errorCount": 0
+    },
+    {
+        "word": "pride",
+        "correctTranslation": "自豪",
+        "options": ["自豪", "羞恥", "困惑", "悲傷"],
+        "errorCount": 0
+    },
+    {
+        "word": "private",
+        "correctTranslation": "私人的",
+        "options": ["私人的", "公開的", "機密的", "正式的"],
+        "errorCount": 0
+    },
+    {
+        "word": "race",
+        "correctTranslation": "種族",
+        "options": ["種族", "國籍", "文化", "語言"],
+        "errorCount": 0
+    },
+    {
+        "word": "relative",
+        "correctTranslation": "親屬",
+        "options": ["親屬", "朋友", "鄰居", "同事"],
+        "errorCount": 0
+    },
+    {
+        "word": "rite",
+        "correctTranslation": "儀式",
+        "options": ["儀式", "規則", "法律", "政策"],
+        "errorCount": 0
+    },
+    {
+        "word": "secretarial",
+        "correctTranslation": "秘書的",
+        "options": ["秘書的", "行政的", "管理的", "教育的"],
+        "errorCount": 0
+    },
+    {
+        "word": "significant",
+        "correctTranslation": "重要的",
+        "options": ["重要的", "微不足道的", "可忽略的", "普通的"],
+        "errorCount": 0
+    },
+    {
+        "word": "situation",
+        "correctTranslation": "情況",
+        "options": ["情況", "地點", "時間", "環境"],
+        "errorCount": 0
+    },
+    {
+        "word": "sociable",
+        "correctTranslation": "好交際的",
+        "options": ["好交際的", "內向的", "害羞的", "冷漠的"],
+        "errorCount": 0
+    },
+    {
+        "word": "subsist",
+        "correctTranslation": "生存",
+        "options": ["生存", "消失", "衰退", "繁榮"],
+        "errorCount": 0
+    },
+    {
+        "word": "truth",
+        "correctTranslation": "真相",
+        "options": ["真相", "謊言", "故事", "假設"],
+        "errorCount": 0
+    },
+    {
+        "word": "unit",
+        "correctTranslation": "單位",
+        "options": ["單位", "數量", "比例", "部分"],
+        "errorCount": 0
+    },
+    {
+        "word": "virtuous",
+        "correctTranslation": "有道德的",
+        "options": ["有道德的", "邪惡的", "冷酷的", "狡猾的"],
+        "errorCount": 0
+    },
+    {
+        "word": "characteristic",
+        "correctTranslation": "特徵",
+        "options": ["特徵", "缺點", "優勢", "目標"],
+        "errorCount": 0
+    },
+    {
+        "word": "fame",
+        "correctTranslation": "名聲",
+        "options": ["名聲", "財富", "地位", "責任"],
+        "errorCount": 0
+    },
+    {
+        "word": "ideal",
+        "correctTranslation": "理想的",
+        "options": ["理想的", "現實的", "普通的", "錯誤的"],
+        "errorCount": 0
+    },
+    {
+        "word": "junior",
+        "correctTranslation": "年輕的",
+        "options": ["年輕的", "年長的", "專業的", "普通的"],
+        "errorCount": 0
+    },
+    {
+        "word": "personnel",
+        "correctTranslation": "人員",
+        "options": ["人員", "裝備", "計畫", "目標"],
+        "errorCount": 0
+    },
+    {
+        "word": "reputation",
+        "correctTranslation": "聲譽",
+        "options": ["聲譽", "身份", "職業", "成就"],
+        "errorCount": 0
+    },
+    {
+        "word": "routine",
+        "correctTranslation": "例行公事",
+        "options": ["例行公事", "特殊事件", "意外", "節日"],
+        "errorCount": 0
+    },
+    {
+        "word": "sensible",
+        "correctTranslation": "明智的",
+        "options": ["明智的", "愚蠢的", "莽撞的", "冷漠的"],
+        "errorCount": 0
+    },
+    {
+        "word": "supreme",
+        "correctTranslation": "至高無上的",
+        "options": ["至高無上的", "普通的", "低等的", "不重要的"],
+        "errorCount": 0
+    },
+    {
+        "word": "symbol",
+        "correctTranslation": "象徵",
+        "options": ["象徵", "實物", "數據", "標誌"],
+        "errorCount": 0
+    },
+    {
+        "word": "vital",
+        "correctTranslation": "至關重要的",
+        "options": ["至關重要的", "無關緊要的", "普通的", "可有可無的"],
+        "errorCount": 0
+    },
+    {
+        "word": "vitally",
+        "correctTranslation": "極其",
+        "options": ["極其", "稍微", "適度", "完全不"],
+        "errorCount": 0
+    },
+    {
+        "word": "welfare",
+        "correctTranslation": "福利",
+        "options": ["福利", "財富", "事業", "成功"],
+        "errorCount": 0
+    },
+    {
+        "word": "worldly",
+        "correctTranslation": "世俗的",
+        "options": ["世俗的", "神聖的", "天真的", "理想化的"],
+        "errorCount": 0
+    },
+    {
+        "word": "phenomenally",
+        "correctTranslation": "非凡地",
+        "options": ["非凡地", "普通地", "無趣地", "意外地"],
+        "errorCount": 0
+    },
+    {
+        "word": "phenomenon",
+        "correctTranslation": "現象",
+        "options": ["現象", "規則", "例行公事", "錯誤"],
+        "errorCount": 0
+    },
+    {
+        "word": "racial",
+        "correctTranslation": "種族的",
+        "options": ["種族的", "文化的", "語言的", "政治的"],
+        "errorCount": 0
+    },
+    {
+        "word": "rational",
+        "correctTranslation": "理性的",
+        "options": ["理性的", "感性的", "衝動的", "荒謬的"],
+        "errorCount": 0
+    },
+    {
+        "word": "systematize",
+        "correctTranslation": "系統化",
+        "options": ["系統化", "隨意", "混亂", "簡單化"],
+        "errorCount": 0
+    },
+    {
+        "word": "theoretical",
+        "correctTranslation": "理論的",
+        "options": ["理論的", "實際的", "虛構的", "具體的"],
+        "errorCount": 0
+    },
+    {
+        "word": "virtually",
+        "correctTranslation": "實際上",
+        "options": ["實際上", "幾乎", "完全", "虛擬地"],
+        "errorCount": 0
+    },
+    {
+        "word": "alien",
+        "correctTranslation": "外星的",
+        "options": ["外星的", "異國的", "陌生的", "外來的"],
+        "errorCount": 0
+    },
+    {
+        "word": "fellowship",
+        "correctTranslation": "友誼",
+        "options": ["友誼", "團隊", "合作", "合夥"],
+        "errorCount": 0
+    },
+    {
+        "word": "herald",
+        "correctTranslation": "預示",
+        "options": ["預示", "報告", "先驅", "傳達"],
+        "errorCount": 0
+    },
+    {
+        "word": "immortal",
+        "correctTranslation": "不朽的",
+        "options": ["不朽的", "死的", "短暫的", "可消逝的"],
+        "errorCount": 0
+    },
+    {
+        "word": "nominate",
+        "correctTranslation": "提名",
+        "options": ["提名", "選舉", "推薦", "指派"],
+        "errorCount": 0
+    },
+    {
+        "word": "noted",
+        "correctTranslation": "著名的",
+        "options": ["著名的", "未被注意的", "有紀錄的", "記得的"],
+        "errorCount": 0
+    },
+    {
+        "word": "pacific",
+        "correctTranslation": "和平的",
+        "options": ["和平的", "太平洋的", "靜的", "安穩的"],
+        "errorCount": 0
+    },
+    {
+        "word": "amenable",
+        "correctTranslation": "易接受的",
+        "options": ["易接受的", "不願意的", "不可改變的", "固執的"],
+        "errorCount": 0
+    },
+    {
+        "word": "conscientiously",
+        "correctTranslation": "盡責地",
+        "options": ["盡責地", "隨便地", "不在乎地", "粗心地"],
+        "errorCount": 0
+    },
+    {
+        "word": "cosmopolitan",
+        "correctTranslation": "國際化的",
+        "options": ["國際化的", "本土的", "地方性的", "鄉村的"],
+        "errorCount": 0
+    },
+    {
+        "word": "disreputable",
+        "correctTranslation": "聲譽不佳的",
+        "options": ["聲譽不佳的", "受尊敬的", "正直的", "著名的"],
+        "errorCount": 0
+    },
+    {
+        "word": "eminent",
+        "correctTranslation": "著名的",
+        "options": ["著名的", "平凡的", "不顯眼的", "微不足道的"],
+        "errorCount": 0
+    },
+    {
+        "word": "fatuous",
+        "correctTranslation": "愚蠢的",
+        "options": ["愚蠢的", "聰明的", "深思熟慮的", "理智的"],
+        "errorCount": 0
+    },
+    {
+        "word": "fraternal",
+        "correctTranslation": "兄弟般的",
+        "options": ["兄弟般的", "敵對的", "冷漠的", "疏遠的"],
+        "errorCount": 0
+    },
+    {
+        "word": "genteel",
+        "correctTranslation": "彬彬有禮的",
+        "options": ["彬彬有禮的", "粗俗的", "隨意的", "不拘小節的"],
+        "errorCount": 0
+    },
+    {
+        "word": "gratuitous",
+        "correctTranslation": "無理由的",
+        "options": ["無理由的", "必要的", "合適的", "合理的"],
+        "errorCount": 0
+    },
+    {
+        "word": "gregarious",
+        "correctTranslation": "群居的",
+        "options": ["群居的", "孤獨的", "內向的", "喜歡獨處的"],
+        "errorCount": 0
+    },
+    {
+        "word": "gypsy",
+        "correctTranslation": "吉普賽的",
+        "options": ["吉普賽的", "流浪的", "定居的", "無根的"],
+        "errorCount": 0
+    },
+    {
+        "word": "illustrious",
+        "correctTranslation": "卓著的",
+        "options": ["卓著的", "無名的", "不起眼的", "平凡的"],
+        "errorCount": 0
+    },
+    {
+        "word": "juvenile",
+        "correctTranslation": "青少年的",
+        "options": ["青少年的", "年長的", "成熟的", "老年的"],
+        "errorCount": 0
+    },
+    {
+        "word": "masculine",
+        "correctTranslation": "男性的",
+        "options": ["男性的", "女性的", "中性的", "陰柔的"],
+        "errorCount": 0
+    },
+    {
+        "word": "notorious",
+        "correctTranslation": "臭名昭著的",
+        "options": ["臭名昭著的", "著名的", "無名的", "隱秘的"],
+        "errorCount": 0
+    },
+    {
+        "word": "novice",
+        "correctTranslation": "新手",
+        "options": ["新手", "專家", "資深者", "大師"],
+        "errorCount": 0
+    },
+    {
+        "word": "overbearing",
+        "correctTranslation": "專橫的",
+        "options": ["專橫的", "謙虛的", "合作的", "寬容的"],
+        "errorCount": 0
+    },
+    {
+        "word": "patriotic",
+        "correctTranslation": "愛國的",
+        "options": ["愛國的", "反叛的", "冷漠的", "外國的"],
+        "errorCount": 0
+    },
+    {
+        "word": "pauper",
+        "correctTranslation": "貧民",
+        "options": ["貧民", "富人", "中產階級", "高官"],
+        "errorCount": 0
+    },
+    {
+        "word": "posterity",
+        "correctTranslation": "後代",
+        "options": ["後代", "前人", "當代", "先祖"],
+        "errorCount": 0
+    },
+    {
+        "word": "qualitative",
+        "correctTranslation": "質的",
+        "options": ["質的", "量的", "數字的", "定量的"],
+        "errorCount": 0
+    },
+    {
+        "word": "repute",
+        "correctTranslation": "名譽",
+        "options": ["名譽", "聲望", "名聲", "記錄"],
+        "errorCount": 0
+    },
+    {
+        "word": "slogan",
+        "correctTranslation": "口號",
+        "options": ["口號", "標語", "廣告", "宣言"],
+        "errorCount": 0
+    },
+    {
+        "word": "venerate",
+        "correctTranslation": "崇敬",
+        "options": ["崇敬", "蔑視", "忽視", "輕視"],
+        "errorCount": 0
+    },
+    {
+        "word": "vocation",
+        "correctTranslation": "職業",
+        "options": ["職業", "愛好", "工作", "興趣"],
+        "errorCount": 0
+    },
+    {
+        "word": "whim",
+        "correctTranslation": "一時興起",
+        "options": ["一時興起", "計劃", "決定", "目的"],
+        "errorCount": 0
+    }
+]
