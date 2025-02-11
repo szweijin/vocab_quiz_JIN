@@ -36,8 +36,9 @@ function logout() {
     localStorage.removeItem("isLoggedIn");
     localStorage.removeItem("expireTime");
 
-    // 確保不會在 index.html 無限跳轉自己
-    if (window.location.pathname !== "/index.html") {
+    // 只有當前頁面不是 index.html 才會跳轉
+    if (!window.location.pathname.includes("index.html")) {
         window.location.href = "index.html";
     }
 }
+
