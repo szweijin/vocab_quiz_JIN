@@ -20,6 +20,9 @@ function checkLoginStatus() {
     const expireTime = localStorage.getItem("expireTime");
     const now = new Date().getTime();
 
+    console.log("isLoggedIn:", isLoggedIn);
+    console.log("expireTime:", expireTime, "現在時間:", now);
+
     if (isLoggedIn !== "true" || !expireTime || now > expireTime) {
         logout();
     }
@@ -32,5 +35,9 @@ document.addEventListener("DOMContentLoaded", function () {
 function logout() {
     localStorage.removeItem("isLoggedIn");
     localStorage.removeItem("expireTime");
-    window.location.href = "index.html"; // 直接回到登入頁
+
+    // 確保不會在 index.html 無限跳轉自己
+    if (window.location.pathname !== "/index.html") {
+        window.location.href = "index.html";
+    }
 }
