@@ -1,7 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #dfffdf;
 }
 
 button {
@@ -15,9 +26,41 @@ button {
 }
 
 #login-container {
+    max-width: 650px;
+    width: 100%;
+    height: 90vh;
+    margin: 10px;
+    padding: 20px;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.password{
+    width: 100%;
+}
+#password{
+    margin: 30px;
+    width: 150px;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
+#login{
+    background-color: rgb(86, 207, 75);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+}
+#login:hover{
+    background-color: rgb(52, 155, 21);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
 }
 
 #topics {
@@ -29,20 +72,108 @@ button {
 #topics button {
     margin: 10px;
     padding: 10px 15px;
+}
+
+
+
+#main-container{
+    max-width: 650px;
+    width: 100%;
+    height: 90vh;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+#topics{
+    width: 100%;
+    padding: 20px;
+}
+h1{
+    width: 100%;
+    padding: 20px;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 1px solid rgb(214, 214, 214);
+    cursor: pointer;
+    transition: all .5s;
+}
+button:hover{
+    background-color: rgb(223, 223, 223);
+    border: 1px solid rgb(255, 255, 255);
+}
+#logout{
+    background-color: rgb(255, 106, 106);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+}
+#logout:hover{
+    background-color: rgb(223, 38, 38);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+}
+
+#word{
+    width: 100%;
+    padding: 20px 0;
+    font-size: 1.6rem;
+}
+
+#options{
+    width: 100%;
+}
+
+#endQuiz{
+    background-color: rgb(47, 163, 184);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+}
+
+#endQuiz:hover{
+    background-color: rgb(16, 104, 119);
+}
+
+#results{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 10px;
+    margin: 10px;
+
 }
 
 th, td {
-    border: 1px solid black;
-    padding: 8px;
+    border: 1px solid rgb(233, 233, 233);
+    padding: 10px;
     text-align: center;
 }
 
 th {
     background-color: #f2f2f2;
+    color: rgb(233, 62, 113);
 }
+
+#back{
+    background-color: rgb(233, 62, 113);
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+}
+
+#back:hover{
+    background-color: rgb(189, 22, 72);
 }

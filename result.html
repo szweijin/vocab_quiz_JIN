@@ -3,14 +3,24 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>測驗結果</title>
+        <title>💯測驗結果</title>
         <link rel="stylesheet" href="styles.css" />
+        <style>
+            body{
+                background: rgb(255, 230, 238) !important;
+            }
+            h1{
+                color: rgb(247, 44, 105)!important;
+            }
+        </style>
     </head>
     <body>
-        <h1>測驗結果</h1>
-        <div id="results"></div>
-        <button onclick="resetData()">清除記錄</button>
-        <button onclick="window.location.href='main.html'">返回主頁</button>
+        <div id="main-container">
+            <h1>💯測驗結果</h1>
+            <div id="results"></div>
+            <button onclick="resetData()" >清除記錄</button>
+            <button onclick="window.location.href='main.html'" id="back">返回主頁</button>
+        </div>
 
         <script src="js/auth.js"></script>
         <script src="js/result.js"></script>
