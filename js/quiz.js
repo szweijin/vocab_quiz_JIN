@@ -15,6 +15,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     const response = await fetch(`data/${topic}.json`);
     words = await response.json();
 
+    // 使用 Fisher-Yates 洗牌來隨機排序題目
+    shuffleArray(words);
+
     const storedData = JSON.parse(localStorage.getItem("quizData")) || {};
     words.forEach((word) => {
         if (storedData[word.word]) {
@@ -25,6 +28,13 @@ document.addEventListener("DOMContentLoaded", async function () {
     showQuestion();
 });
 
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]]; // 交換元素
+    }
+}
+
 function showQuestion() {
     if (currentWordIndex >= words.length) {
         endQuiz();
@@ -32,7 +42,8 @@ function showQuestion() {
     }
 
     const wordObj = words[currentWordIndex];
-    const shuffledOptions = [...wordObj.options].sort(() => Math.random() - 0.5);
+    const shuffledOptions = [...wordObj.options];
+    shuffleArray(shuffledOptions); // 使用 Fisher-Yates 洗牌隨機選項順序
 
     document.getElementById("word").innerText = `單字: ${wordObj.word}`;
     const optionsContainer = document.getElementById("options");
@@ -41,7 +52,7 @@ function showQuestion() {
     shuffledOptions.forEach((option) => {
         const btn = document.createElement("button");
         btn.innerText = option;
-        btn.setAttribute("data-option", option); // 添加 data-option 屬性
+        btn.setAttribute("data-option", option);
         btn.onclick = () => checkAnswer(option);
         optionsContainer.appendChild(btn);
     });
@@ -55,10 +66,10 @@ function checkAnswer(selected) {
         showQuestion();
     } else {
         alert(`❌ 錯誤！`);
-
+        
         wordObj.errorCount++;
         updateLocalStorage(wordObj);
-
+        
         // 找到對應的按鈕並禁用
         const buttons = document.querySelectorAll("#options button");
         buttons.forEach((btn) => {
